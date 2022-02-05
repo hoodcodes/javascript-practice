@@ -1,0 +1,19 @@
+{
+  "name": "javascript-practice",
+  "version": "1.0.0",
+  "description": "playground for practicing coding skills in this area.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoodcodes/javascript-practice.git"
+  },
+  "author": "hoodcodes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hoodcodes/javascript-practice/issues"
+  },
+  "homepage": "https://github.com/hoodcodes/javascript-practice#readme"
+}
